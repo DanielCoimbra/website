@@ -1,1 +1,1 @@
-# website
+# Example of webpages
